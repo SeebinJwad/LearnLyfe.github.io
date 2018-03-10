@@ -1,0 +1,76 @@
+.life{
+    background-image: url(https://lh3.googleusercontent.com/tQ7nS3U9Jim0oggwqswgSShSoBmw028ggpWDZbSiIFhD4UwvhU7H_NbFQlxxFwAs1Mc5ynKxPE4ww_mxyACnlSPgi0-Y0bq1e7B1Sg=w1200);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#A{
+    width:180px;
+    height:140px;
+}
+#owl{
+    float:right;
+    width:235px;
+    height:300px;
+}
+#top{
+    color:#8AA07C  ;
+    text-shadow: 3px 3px 4px black;
+    font-size:60px;
+    background-image: url(http://www.reddishvalenursery.stockport.sch.uk/wp-content/uploads/2016/06/background-pale-yellow3.png);
+    background-size:cover;
+    padding-bottom: 0px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    line-height: 40px;
+    font-family: sans-serif;
+    font-size:16px;
+    font-weight: bold;
+}
+.container-fluid{
+    width:300px;
+
+}
+.container-fluid h1 {
+    color: red;
+    text-shadow: 2px 2px black;
+    font-family: cursive;
+    font-size: 40px;
+}
+input[type=text] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 4px solid #FF8F00;
+    border-radius: 25%;
+    box-sizing: border-box;
+}
+input[type=password] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 4px solid #2CD4BF;
+    border-radius: 25%;
+    box-sizing: border-box;
+}
+input[type=email] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 4px solid #42DA00;
+    border-radius: 25%;
+    box-sizing: border-box;
+}
+.container-fluid .btn{
+    width: 130px;
+
+}
+.regbox{
+    text-align: center;
+    background-color:#FFD9B4;
+    border-top: 5px solid #FFBB78;
+    border-bottom: 5px solid #FFBB78;
+    border-radius: 12%;
+}
